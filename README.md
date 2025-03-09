@@ -1,4 +1,4 @@
-# soundscape
+# SoundScape
 SoundScape - Spotify Similar Songs Recommender System
 Note: Created by Guntaas Kapoor
 This is the intellectual property of Guntaas Kapoor.
@@ -17,3 +17,5 @@ Algorithm:
 
 Data:
   The dataset used was downloaded from Kaggle and then modified and cleaned to remove accent marks and make it more useful. 
+Deployment:
+  The application has been deployed on Streamlit Cloud.
