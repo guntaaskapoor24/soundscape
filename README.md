@@ -7,6 +7,8 @@ Violaters may face legal action under applicable copywright laws.
 
 For enquiries or authorized use, kindly contact guntaaskapoor24@gmail.com
 
+App link: https://soundscapemnfj3xp2gk4f02olu2ppg.streamlit.app/
+
 About:
   SoundScape was developed in 2025 as a personal project. It is song recommender system that recommends the user top 5 most similar songs to the one 
   entered by the user.
