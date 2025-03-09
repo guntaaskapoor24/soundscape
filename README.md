@@ -1,2 +1,2 @@
 # soundscape
-SoundScape - Spotify Similar Song Recommender System
+SoundScape - Spotify Similar Songs Recommender System
