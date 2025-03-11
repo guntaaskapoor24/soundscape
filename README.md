@@ -14,7 +14,7 @@ Violaters may face legal action under applicable copywright laws.
   entered by the user.
 
 **Algorithm:**
-  SoundScape used K - Means Clustering to group songs together based on their common characteristics like instrumentalness, acousticness, valence etc.
+  SoundScape uses K - Means Clustering to group songs together based on their common characteristics like instrumentalness, acousticness, valence etc. In other words, SoundScape uses Content - Based Filtering to group together songs based on similar characteristics.
   It then provides top 5 recommendations.
 
 **Data:**
