@@ -22,4 +22,4 @@ Violaters may face legal action under applicable copywright laws.
   The dataset used was downloaded from Kaggle and then modified and cleaned to remove accent marks and make it more useful. 
   
 **Deployment:**
-  The application has been deployed on Streamlit Cloud.
+  The application has been deployed successfully on Streamlit Cloud.
